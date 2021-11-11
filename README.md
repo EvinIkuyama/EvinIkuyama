@@ -2,7 +2,7 @@
 <h3 align="center"Any Pronoun</h3>
 <h3 align="center">Games Development Student || Staffordshire University</h3>
 
-- ⚡ Fun fact **In the past I have only made mini word based games despite having a lot of experience in art and design. I am also a cosplayer.**
+- ⚡ Fun fact **In the past I have only made mini word based games in Python despite having a lot of experience prior in art and design. I am also a cosplayer.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
